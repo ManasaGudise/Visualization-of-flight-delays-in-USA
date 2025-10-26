@@ -1,7 +1,7 @@
 
 # ✈️ Visualization of Flight Delays in the USA
 
-This project visualizes **flight delay and cancellation trends in the United States** using data from the **U.S. Bureau of Transportation Statistics (2015)**. The goal is to help travelers plan smarter trips by understanding when, where, and why flight delays occur — and which airlines perform better.
+This project visualizes **flight delay and cancellation trends in the United States** using data from the **U.S. Bureau of Transportation Statistics (2015)**. The goal is to help travelers plan smarter trips by understanding when, where, and why flight delays occur and which airlines perform better.
 
 ---
 
@@ -11,12 +11,12 @@ Thousands of flights across the U.S. experience delays or cancellations each yea
 This project explores patterns and trends using **data visualization techniques** such as bar charts, line plots, and geographic heatmaps.
 
 The visualizations aim to answer:
-- Which airlines have the most and least delays?
-- Which months experience the highest number of delays?
-- What are the major causes of flight cancellations?
-- Which airports and states face the most disruptions?
+1.Which airlines have the most and least delays?
+2.Which months experience the highest number of delays?
+3.What are the major causes of flight cancellations?
+4.Which airports and states face the most disruptions?
 
----
+--
 
 ## 🧠 Motivation
 
