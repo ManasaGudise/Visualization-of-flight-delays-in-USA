@@ -11,19 +11,19 @@ Thousands of flights across the U.S. experience delays or cancellations each yea
 This project explores patterns and trends using **data visualization techniques** such as bar charts, line plots, and geographic heatmaps.
 
 The visualizations aim to answer:
-1.Which airlines have the most and least delays?
-2.Which months experience the highest number of delays?
-3.What are the major causes of flight cancellations?
-4.Which airports and states face the most disruptions?
+- Which airlines have the most and least delays?
+- Which months experience the highest number of delays?
+- What are the major causes of flight cancellations?
+- Which airports and states face the most disruptions?
 
---
+
 
 ## 🧠 Motivation
 
 Our motivation stemmed from experiencing flight delays firsthand at JFK Airport.  
 We realized that many passengers could benefit from predictive visualizations based on historical delay and cancellation data.
 
----
+
 
 ## 🗂️ Dataset
 
